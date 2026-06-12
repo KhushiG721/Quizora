@@ -26,16 +26,6 @@ Quizora is a Multi-User Online Quiz and Test Management System developed in C++.
 - File Handling
 - Data Structures
 
-## Project Structure
-
-```text
-src/
-include/
-data/
-screenshots/
-report/
-```
-
 ## Learning Outcomes
 
 - OOP Concepts
